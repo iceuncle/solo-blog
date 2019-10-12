@@ -10,7 +10,7 @@
 
 ### 最新
 
-* [我在 GitHub 上的开源项目](https://www.tiayang.pub/my-github-repos)
+* [我在 GitHub 上的开源项目](https://www.tianyang.pub/my-github-repos)
 
 
 
