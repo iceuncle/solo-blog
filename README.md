@@ -10,6 +10,7 @@
 
 ### 最新
 
+* [git基础篇](https://www.tianyang.pub/articles/2019/10/16/1571186379322.html)
 * [ES6、ES7、ES8特性](https://www.tianyang.pub/articles/2019/10/14/1571065927800.html)
 * [我在 GitHub 上的开源项目](https://www.tianyang.pub/my-github-repos)
 
