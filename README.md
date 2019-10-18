@@ -10,6 +10,9 @@
 
 ### 最新
 
+* [git实用篇之如何找回已经被删除的分支](https://www.tianyang.pub/articles/2019/10/17/1571308852025.html)
+* [git实用篇之如何丢弃所有的修改](https://www.tianyang.pub/articles/2019/10/17/1571307981199.html)
+* [git实用篇之如何合并提交](https://www.tianyang.pub/articles/2019/10/17/1571307556955.html)
 * [git进阶篇](https://www.tianyang.pub/articles/2019/10/16/1571240883979.html)
 * [git基础篇](https://www.tianyang.pub/articles/2019/10/16/1571186379322.html)
 * [ES6、ES7、ES8特性](https://www.tianyang.pub/articles/2019/10/14/1571065927800.html)
